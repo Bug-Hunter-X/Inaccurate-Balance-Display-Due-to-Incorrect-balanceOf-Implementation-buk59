@@ -1,0 +1,1 @@
+This repository contains a Solidity smart contract with an incorrectly implemented `balanceOf` function, leading to inaccurate token balance displays. The bug is caused by a missing or incorrect update of the `balances` mapping. The solution demonstrates the correct implementation of the `balanceOf` function.
